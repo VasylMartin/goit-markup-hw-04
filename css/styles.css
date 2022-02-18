@@ -198,11 +198,18 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
+  display: flex;
+  align-items: center;
 }
 
 .contact:hover,
 .contact:focus {
   color: var(--hov-nav-contacts);
+}
+
+.icon-nav {
+  fill: currentColor;
+  margin-right: 10px;
 }
 
 /* FOOTER */
