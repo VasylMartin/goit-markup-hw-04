@@ -347,6 +347,17 @@ body {
   clip: rect(0 0 0 0);
 }
 
+.icons-sec-two {
+  width: 270px;
+  height: 120px;
+  margin-bottom: 30px;
+  border-radius: 4px;
+  background-color: #f5f4fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 /* SECTION 3 [index.html] см.SECTION 2 */
 .section-three {
   padding-bottom: 94px;
