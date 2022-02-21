@@ -212,6 +212,10 @@ body {
   margin-right: 10px;
 }
 
+.current {
+  color: var(--hov-nav-contacts);
+}
+
 /* FOOTER */
 .footer {
   background-color: var(--bcg-footer-msec);
@@ -306,6 +310,7 @@ body {
     url('../images/bgimg.jpg');
   background-repeat: no-repeat;
   background-size: auto auto;
+  background-position: center;
 }
 
 .mtitle {
